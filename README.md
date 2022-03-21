@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My goal for this year (2022) is to use GitHub to replace LinkedIn, I will park my LinkedIn profile and direct people to here, let's see how it goes...
+
 <!--
 **fredaffini/fredaffini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
